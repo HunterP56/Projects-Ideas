@@ -1,5 +1,5 @@
 # Projects-Ideas
-List of current project ideas and current projects.
+List of current project ideas and current projects:
 
 
 Web Scraping bot, twitter, instagram, reddit, tiktok. (Current) (Main project)
